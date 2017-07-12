@@ -9,7 +9,7 @@
   * [群游戏](qun-guan-li/qun-you-xi.md)
     * [猜大小](qun-guan-li/qun-you-xi/cai-da-xiao.md)
     * [猜数字](qun-guan-li/qun-you-xi/cai-da-xiao/cai-shu-zi.md)
-    * [幸运28](qun-guan-li/qun-you-xi/xing-yun-28.md)
+    * [幸运28](/qun-guan-li/qun-you-xi.md#xingyun28)
     * [灵签](qun-guan-li/qun-you-xi.md#lingqian)
   * [防广告](/qun-guan-li.md#adplus)
 * [聊天机器人](liao-tian-ji-qi-ren.md)
