@@ -16,9 +16,11 @@
 * [电影机器人](dian-ying-ji-qi-ren.md)
 * 商城助手
 * 客服系统
+* 单词机器人
+* 股票机器人
 * [社群功能](she-qun-gong-neng.md)
   * [定时群发](she-qun-gong-neng/ding-shi-qun-fa.md)
   * 早晚报
 * [更多功能](geng-duo-gong-neng.md)
-* [如何定制](ru-he-ding-zhi.md)
+* 股票机器人
 
