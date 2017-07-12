@@ -13,11 +13,12 @@
     * [灵签](qun-guan-li/qun-you-xi.md#lingqian)
   * [防广告](/qun-guan-li.md#adplus)
 * [聊天机器人](liao-tian-ji-qi-ren.md)
-* 电影机器人
+* [电影机器人](dian-ying-ji-qi-ren.md)
 * 商城助手
 * 客服系统
 * [社群功能](she-qun-gong-neng.md)
   * [定时群发](she-qun-gong-neng/ding-shi-qun-fa.md)
+  * 早晚报
 * [更多功能](geng-duo-gong-neng.md)
 * [如何定制](ru-he-ding-zhi.md)
 
