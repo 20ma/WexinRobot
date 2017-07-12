@@ -12,6 +12,7 @@
     * [幸运28](/qun-guan-li/qun-you-xi.md#xingyun28)
     * [灵签](qun-guan-li/qun-you-xi.md#lingqian)
   * [防广告](/qun-guan-li.md#adplus)
+  * [聊天记录](/qun-guan-li.md#聊天记录管理)
 * [聊天机器人](liao-tian-ji-qi-ren.md)
 * [电影机器人](dian-ying-ji-qi-ren.md)
 * 商城助手
