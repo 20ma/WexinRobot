@@ -16,7 +16,7 @@
 * 商城助手
 * 客服系统
 * [社群功能](she-qun-gong-neng.md)
-  * 定时群发
+  * [定时群发](she-qun-gong-neng/ding-shi-qun-fa.md)
 * [更多功能](geng-duo-gong-neng.md)
 * [如何定制](ru-he-ding-zhi.md)
 
