@@ -10,6 +10,7 @@
     * [猜大小](qun-guan-li/qun-you-xi/cai-da-xiao.md)
     * [猜数字](qun-guan-li/qun-you-xi/cai-da-xiao/cai-shu-zi.md)
     * 幸运28
+    * [灵签](qun-guan-li/qun-you-xi.md#lingqian)
   * [防广告](/qun-guan-li.md#adplus)
 * 聊天机器人
 * 电影机器人
