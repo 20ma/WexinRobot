@@ -18,31 +18,7 @@ hi, 我是有血有肉的电影版机器人卡卡,我的功能包括:
 
 [![](https://github.com/brooktran/mbot/raw/master/assets/qrcode.png)](https://github.com/brooktran/mbot/blob/master/assets/qrcode.png)
 
----
-
-# 更新日志 {#update}
-
-## v2.0.1
-
-> 多群协同管理
->
-> PC版本
->
-> 发送"功能名称: 打开/关闭" 打开或关闭功能
 
 
-
-## V1.2.39
-
-> 新增随机事件
->
-> 猜大小最大手数支持自定义
->
-> 新增群内广告检测
->
-> 新增500个谜语
->
-> 修复一些bug
-
-
+版权所有: 二十码 http://20ma.cn
 

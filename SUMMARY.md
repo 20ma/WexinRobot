@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-  * [更新](README.md#update)
+  * [更新](geng-xin.md)
 * [目录](SUMMARY.md)
 * [群管理](qun-guan-li.md)
   * [积分](ji-fen.md)
