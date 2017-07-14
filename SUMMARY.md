@@ -15,10 +15,10 @@
   * [聊天记录](/qun-guan-li.md#聊天记录管理)
 * [聊天机器人](liao-tian-ji-qi-ren.md)
 * [电影机器人](dian-ying-ji-qi-ren.md)
-* 商城助手
+* [商城助手](shang-cheng-zhu-shou.md)
 * 客服系统
-* 单词机器人
-* 股票机器人
+* [单词机器人](dan-ci-ji-qi-ren.md)
+* [股票机器人](gu-piao-ji-qi-ren.md)
 * [社群功能](she-qun-gong-neng.md)
   * [定时群发](she-qun-gong-neng/ding-shi-qun-fa.md)
   * 早晚报
