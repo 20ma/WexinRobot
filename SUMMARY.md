@@ -21,7 +21,7 @@
 * [股票机器人](gu-piao-ji-qi-ren.md)
 * [社群功能](she-qun-gong-neng.md)
   * [定时群发](she-qun-gong-neng/ding-shi-qun-fa.md)
-  * 早晚报
+  * [早晚报](she-qun-gong-neng/zao-wan-bao.md)
 * [更多功能](geng-duo-gong-neng.md)
 * 股票机器人
 
