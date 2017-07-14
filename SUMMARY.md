@@ -16,7 +16,7 @@
 * [聊天机器人](liao-tian-ji-qi-ren.md)
 * [电影机器人](dian-ying-ji-qi-ren.md)
 * [商城助手](shang-cheng-zhu-shou.md)
-* 客服系统
+* [客服系统](ke-fu-xi-tong.md)
 * [单词机器人](dan-ci-ji-qi-ren.md)
 * [股票机器人](gu-piao-ji-qi-ren.md)
 * [社群功能](she-qun-gong-neng.md)
